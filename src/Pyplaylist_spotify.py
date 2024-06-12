@@ -53,7 +53,3 @@ def playlist():
 
     #Adding songs found into the new playlist
     sp.playlist_add_items(playlist_id=playlist["id"], items=song_uris)
-#if __name__ == "__main__":
-#    playlist()
-if st.button("Create Playlist"):
-    playlist()

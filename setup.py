@@ -8,7 +8,7 @@ setup(
     version='0.0.1',
     description='It generally creates and trigger a function to add songs into you spotify playlist',
     author= 'Subhendu Adhikari',
-    #url = 'https://github.com/Spidy20/PyMusic_Player',
+    
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     keywords=['spotify_playlist','playlist_maker','playlist_creater'],
